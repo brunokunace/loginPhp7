@@ -1,0 +1,14 @@
+{
+    "name": "brun00/login-php7",
+    "authors": [
+        {
+            "name": "Bruno Henry",
+            "email": "brunohenryt@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LoginPHP7\\": "src/"
+        }
+    }
+}
